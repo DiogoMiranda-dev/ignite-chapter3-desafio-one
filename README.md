@@ -24,7 +24,7 @@ Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na 
  -->
 
 ## :page_facing_up:🚀 Sobre o Projeto
-Nesse desafio, criei uma aplicação para treinar o que aprendi no ignite até agora. Essa será uma aplicação onde o meu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero.
+Nesse desafio, criei uma aplicação para treinar o que aprendi no ignite até agora. Essa será uma aplicação onde o meu principal objetivo é criar um blog com post feito usando a API do prismic CRM, criar a paginação usando fecth e por ultimo a criação de uma seção de comentários
 
 ## :computer: Demo
 <!--
