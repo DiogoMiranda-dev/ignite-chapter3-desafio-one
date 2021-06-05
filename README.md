@@ -42,8 +42,8 @@ Design feito por Tiago Luchtenberg [https://www.figma.com](https://www.figma.com
 
 ### Web
 <h4 align="center">
-  <img alt="ExampleWeb" title="ExampleWeb" src=".github/img1.png.png" width="700px">
-  <img alt="ExampleWeb" title="ExampleWeb" src=".github/img2.png.png" width="700px">
+  <img alt="ExampleWeb" title="ExampleWeb" src=".github/img2.png" >
+  <img alt="ExampleWeb" title="ExampleWeb" src=".github/img1.png" >
 </h4>
 
 ### Mobile
